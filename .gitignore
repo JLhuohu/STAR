@@ -3,7 +3,7 @@ Depend.list
 
 .project
 .kdev4/
-source.kdev4
+source.kdev8
 
 
 # Don't track intermediary files from building the manual
